@@ -1,2 +1,14 @@
 .gitignore
 ~$*.xlsx
+# Ignore Excel temporary/lock files
+~$*.xls*
+*.xlk
+
+# Ignore Word temporary/lock files
+~$*.doc*
+
+# Ignore PowerPoint temporary/lock files
+~$*.ppt*
+
+# Ignore general Office backup/lock files
+~$*.tmp
