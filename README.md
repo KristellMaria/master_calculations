@@ -11,7 +11,7 @@ Here I will try to code and calculate almost all statistics needed for the thesi
 Statistical calculations like mixed ANOVAs designs, visualizations and other regression analysis.
 
 This repository contains code, data, and analysis for my master's thesis in psychology.  
-The project investigates bilingualism, executive functions, and aging using “Classical Stroop” and “Emotional Stroop” tasks.
+The project investigates bilingualism, executive functions, and aging. Different psychological, cognitive, and wellbeing tasks are used such as “Classical Stroop”, “Emotional Stroop” tasks, and other tests measuring bilingualism and well-being.
 
 This research is a collaboration between two faculties: the Psychology department and the Language and Culture department here in UiT.  
 The lab where the data collection occurred was in the PolaRLab in Tromsø located at the Language and Culture department.  
