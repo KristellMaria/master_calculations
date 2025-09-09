@@ -1,5 +1,6 @@
 .gitignore
 ~$*.xlsx
+
 # Ignore Excel temporary/lock files
 ~$*.xls*
 *.xlk
