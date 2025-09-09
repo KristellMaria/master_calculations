@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+scipy
+statsmodels
+pingouin
+scikit-posthocs
+scikit-learn
+ipykernel
+black
+isort
